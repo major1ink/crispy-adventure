@@ -1,6 +1,6 @@
 {
   "vaultName": "wiki",
-  "lastExport": 1747214925338,
+  "lastExport": 1747216283059,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light check-color check-bg wotc-beyond",
   "useCustomHeadContent": false,
@@ -47,85 +47,85 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -215,50 +215,50 @@
       "dependencies": []
     },
     "Магические предметы/Boyana'sDagger.md": {
-      "modifiedTime": 1747214925338,
-      "sourceSize": 3470,
+      "modifiedTime": 1747216283059,
+      "sourceSize": 3525,
       "exportedPath": "Магические предметы/Boyana'sDagger.html",
       "dependencies": []
     },
     "Магические предметы/Boyana'sRing.md": {
-      "modifiedTime": 1747214925338,
-      "sourceSize": 3730,
+      "modifiedTime": 1747216283059,
+      "sourceSize": 3748,
       "exportedPath": "Магические предметы/Boyana'sRing.html",
       "dependencies": []
     },
     "Магические предметы/MagicalArrows.md": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 12262,
       "exportedPath": "Магические предметы/MagicalArrows.html",
       "dependencies": []
     },
     "Файлы/Кинжал Бояна.png": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 1951210,
       "exportedPath": "Файлы/Кинжал Бояна.png",
       "dependencies": []
     },
     "Файлы/Кольцо Бояна.png": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 1511425,
       "exportedPath": "Файлы/Кольцо Бояна.png",
       "dependencies": []
     },
     "Файлы/Королевство Штормхолд.jpg": {
-      "modifiedTime": 1747214925338,
+      "modifiedTime": 1747216283059,
       "sourceSize": 1491936,
       "exportedPath": "Файлы/Королевство Штормхолд.jpg",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1747214925338,
-      "sourceSize": 359,
+      "modifiedTime": 1747216283059,
+      "sourceSize": 416,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Таймлайн/История мира.pdf": {
-      "modifiedTime": 1747214925338,
-      "sourceSize": 50933,
+      "modifiedTime": 1747216283059,
+      "sourceSize": 50891,
       "exportedPath": "Таймлайн/История мира.pdf",
       "dependencies": []
     }
